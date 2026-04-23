@@ -33,10 +33,6 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=for-the-badge&logo=powerbi" />
   <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel" />
   <img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql" />
