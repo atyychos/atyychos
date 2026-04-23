@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Business%20Analytics-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tools-PowerBI%20%7C%20Excel%20%7C%20SQL-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Data%20Analyst%20Role-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Business%20Analyst%20Role-orange?style=for-the-badge" />
 </p>
 
 ## 🚀 About Me  
