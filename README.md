@@ -4,12 +4,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Business%20Analytics-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tools-PowerBI%20%7C%20Excel%20%7C%20SQL-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Business%20Analyst%20Role-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-BI%20Analyst%20Role-orange?style=for-the-badge" />
 </p>
 
 ## 🚀 About Me  
 
-🎓 Final-year BBA student with a strong focus on data-driven business strategy  
+🎓 BBA Graduate with a strong focus on data-driven business strategy  
 📊 Passionate about transforming raw data into actionable insights  
 💡 Interested in Business Intelligence, Analytics, and Market Research  
 🌏 Targeting opportunities in global analytics & consulting roles  
@@ -33,7 +33,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@ Raw Data → Cleaning → Transformation → Visualization → Insights → Busi
 
 ## 🎯 Career Vision  
 
-To become a high-impact Business/Data Analyst who  
+To become a high-impact Business Intelligence Analyst who  
 - Solves real-world business problems  
 - Supports strategic decisions with data  
 - Creates measurable business value  
