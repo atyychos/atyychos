@@ -25,10 +25,10 @@
 
 ## What Makes Me Valuable  
 
-Translate data into business insights  
-Understand consumer behavior & decision patterns  
-Build interactive dashboards for decision-making  
-Combine analytics with business strategy  
+- Translate data into business insights  
+- Understand consumer behavior & decision patterns  
+- Build interactive dashboards for decision-making  
+- Combine analytics with business strategy  
 
 ## Tech Stack  
 
