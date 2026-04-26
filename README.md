@@ -9,10 +9,10 @@
 
 ## About Me  
 
-BBA Graduate with a strong focus on data-driven business strategy  
-Passionate about transforming raw data into actionable insights  
-Interested in Business Intelligence, Analytics, and Market Research  
-Targeting opportunities in global analytics & consulting roles  
+- BBA Graduate with a strong focus on data-driven business strategy  
+- Passionate about transforming raw data into actionable insights  
+- Interested in Business Intelligence, Analytics, and Market Research  
+- Targeting opportunities in global analytics & consulting roles  
 
 ## Key Metrics  
 
@@ -25,10 +25,10 @@ Targeting opportunities in global analytics & consulting roles
 
 ## What Makes Me Valuable  
 
-✔ Translate data into business insights  
-✔ Understand consumer behavior & decision patterns  
-✔ Build interactive dashboards for decision-making  
-✔ Combine analytics with business strategy  
+Translate data into business insights  
+Understand consumer behavior & decision patterns  
+Build interactive dashboards for decision-making  
+Combine analytics with business strategy  
 
 ## Tech Stack  
 
