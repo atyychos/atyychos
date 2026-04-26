@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abhishek Luitel  
-### 📊 Business Analytics | Data-Driven Decision Maker | BI Enthusiast  
+### Business Analytics | Data-Driven Decision Maker | BI Enthusiast  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Business%20Analytics-blue?style=for-the-badge" />
@@ -7,14 +7,14 @@
   <img src="https://img.shields.io/badge/Goal-BI%20Analyst%20Role-orange?style=for-the-badge" />
 </p>
 
-## 🚀 About Me  
+## About Me  
 
-🎓 BBA Graduate with a strong focus on data-driven business strategy  
-📊 Passionate about transforming raw data into actionable insights  
-💡 Interested in Business Intelligence, Analytics, and Market Research  
-🌏 Targeting opportunities in global analytics & consulting roles  
+BBA Graduate with a strong focus on data-driven business strategy  
+Passionate about transforming raw data into actionable insights  
+Interested in Business Intelligence, Analytics, and Market Research  
+Targeting opportunities in global analytics & consulting roles  
 
-## 📈 Key Metrics  
+## Key Metrics  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge" />
@@ -23,14 +23,14 @@
   <img src="https://img.shields.io/badge/Focus-Insight%20Driven-red?style=for-the-badge" />
 </p>
 
-## 🧠 What Makes Me Valuable  
+## What Makes Me Valuable  
 
 ✔ Translate data into business insights  
 ✔ Understand consumer behavior & decision patterns  
 ✔ Build interactive dashboards for decision-making  
 ✔ Combine analytics with business strategy  
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=for-the-badge&logo=powerbi" />
@@ -41,30 +41,30 @@
 
 ## 📂 Featured Projects  
 
-### 📊 Motor Sales Dashboard  
+### Motor Sales Dashboard  
 🔹 Sales trends, KPIs, and performance tracking  
 🔹 Business insights for revenue optimization  
 
-### ☕ Coffee Shop Analytics Dashboard  
+### Coffee Shop Analytics Dashboard  
 🔹 Customer behavior & revenue patterns  
 🔹 Category-wise performance insights  
 
-### 🛍️ Retail Consumer Analysis  
+### Retail Consumer Analysis  
 🔹 Brand preference & decision factors  
 🔹 Market research-based insights  
 
-## 📊 Analytics Workflow  
+## Analytics Workflow  
 
 Raw Data → Cleaning → Transformation → Visualization → Insights → Business Decisions  
 
-## 🎯 Career Vision  
+## Career Vision  
 
 To become a high-impact Business Intelligence Analyst who  
 - Solves real-world business problems  
 - Supports strategic decisions with data  
 - Creates measurable business value  
 
-## 🤝 Connect With Me  
+## Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-luitel/">
