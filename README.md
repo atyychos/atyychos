@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Abhishek Luitel  
+“I don’t just analyze data — I translate it into decisions that drive growth.”
 ### Business Analytics | Data-Driven Decision Maker | BI Enthusiast  
 
 <p align="center">
@@ -75,9 +76,6 @@ To become a high-impact Business Intelligence Analyst who
   </a>
 </p>
 
-## ⚡ Signature Line  
-
-“I don’t just analyze data — I translate it into decisions that drive growth.”
 
 <!--
 **atyychos/atyychos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
