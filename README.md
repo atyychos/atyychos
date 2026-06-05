@@ -10,7 +10,7 @@
 
 ## About Me  
 
-- BBA Graduate with a strong focus on data-driven business strategy  
+- BBA Graduate with a strong focus on data-driven business strategy 
 - Passionate about transforming raw data into actionable insights  
 - Interested in Business Intelligence, Analytics, and Market Research  
 - Targeting opportunities in global analytics & consulting roles  
