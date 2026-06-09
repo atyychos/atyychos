@@ -76,7 +76,6 @@ To become a high-impact Business Intelligence Analyst who
   </a>
 </p>
 
-
 <!--
 **atyychos/atyychos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
