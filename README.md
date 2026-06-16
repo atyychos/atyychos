@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Abhishek Luitel 
-“I don’t just analyze data — I translate it into decisions that drive growth.”   
+“I don’t just analyze data — I translate it into decisions that drive growth.”    
 ### Business Analytics | Data-Driven Decision Maker | BI Enthusiast 
  
 <p align="center">
