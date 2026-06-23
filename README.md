@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=for-the-badge&logo=powerbi" />
   <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge&logo=microsoft-excel" /> 
   <img src="https://img.shields.io/badge/SQL-Intermediate-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Python-Beginner-lightgrey?style=for-the-badge&logo=python" /> 
+  <img src="https://img.shields.io/badge/Python-Beginner-lightgrey?style=for-the-badge&logo=python" />  
 </p>
 
 ## 📂 Featured Projects  
