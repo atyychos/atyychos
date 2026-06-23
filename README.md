@@ -69,7 +69,7 @@ To become a high-impact Business Intelligence Analyst who
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-luitel/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Luitel-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Luitel-blue?style=for-the-badge&logo=linkedin" /> 
   </a>
   <a href="atychos4@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />  
