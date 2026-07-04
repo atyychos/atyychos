@@ -20,7 +20,7 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge" />  
   <img src="https://img.shields.io/badge/Dashboards-5+-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data%20Handled-10K%2B%20Rows-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Handled-10K%2B%20Rows-orange?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/Focus-Insight%20Driven-red?style=for-the-badge" />
 </p>
 
