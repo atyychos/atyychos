@@ -15,7 +15,7 @@
 - Interested in Business Intelligence, Analytics, and Market Research  
 - Targeting opportunities in global analytics & consulting roles  
 
-## Key Metrics  
+## Key Metrics   
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Projects-10+-brightgreen?style=for-the-badge" />   
