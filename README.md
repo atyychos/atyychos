@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek Luitel   
 “I don’t just analyze data — I translate it into decisions that drive growth.”     
-### Business Analytics | Data-Driven  Decision Maker | BI Enthusiast      
+### Business Analytics | Data-Driven   Decision Maker | BI Enthusiast      
   
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Business%20Analytics-blue?style=for-the-badge" /> 
