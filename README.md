@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Tools-PowerBI%20%7C%20Excel%20%7C%20SQL%20%7C%20PYTHON-green?style=for-the-badge" /> 
   <img src="https://img.shields.io/badge/Goal-BI%20Analyst%20Role-orange?style=for-the-badge" />      
 </p>
-
+ 
 ## About Me  
 
 - BBA Graduate with a strong focus on data-driven business strategy 
