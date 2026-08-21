@@ -31,7 +31,7 @@
 - Build interactive dashboards for decision-making  
 - Combine analytics with business strategy  
 
-## Tech Stack  
+## Tech Stack   
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Advanced-yellow?style=for-the-badge&logo=powerbi" />
