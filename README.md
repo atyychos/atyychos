@@ -8,7 +8,7 @@
 
 <br/>
 
-- 🇳🇵 Based in Nepal · 🇳🇿 Headed for New Zealand
+- 🇳🇵 Based in Nepal
 - 💼 Business Development → Business Analysis, in transition
 - 🌐 [your-portfolio-link.com](https://your-portfolio-link.com)
 - 🔗 LinkedIn: [in/your-linkedin-handle](https://www.linkedin.com/in/abhishek-luitel/)
