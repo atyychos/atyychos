@@ -1,6 +1,6 @@
 <div align="center">
 
-# atyychos44
+# Simon-style, atyychos44 edition 👋
 
 ### 🧩 R̶e̶q̶u̶i̶r̶e̶m̶e̶n̶t̶s̶ ̶u̶n̶d̶e̶f̶i̶n̶e̶d̶.̶ Let's fix that.
 
@@ -17,20 +17,20 @@
 
 <br/>
 
-> Want to know what I'm currently working on?
->
-> - [x] **ECBA fundamentals** — BABOK's six knowledge areas, studied end to end
-> - [x] **BRD masterclass** — a full 12-section Business Requirements Document, built around a fictional bank OTP login project
-> - [x] **Excel analytics toolkit** — 15 documented sections, function tables, and a 5-phase learning roadmap
-> - [x] **Python fundamentals** — Calculator, Odd/Even Checker, Temperature Converter, Number Guessing Game
-> - [ ] **Master's in Business Analytics (NZ)** — application in progress
-> - [ ] **CCBA → CBAP** — next on the certification path
->
-> *Currently focused on: sharpening SQL + stakeholder analysis artifacts.*
->
-> *Not chasing tool badges. Chasing clarity — the tools just come along for the ride.*
+<div align="center">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=atyychos44&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" />
+<img height="165em" src="https://streak-stats.demolab.com?user=atyychos44&theme=dark&hide_border=true&background=0d1117" />
 
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atyychos44&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" />
+
+</div>
+
+<br/>
+
+## 📌 Toolkit
 
 <div align="center">
 
@@ -45,7 +45,48 @@
 
 <br/>
 
-## Pinned
+> Want to know what I'm currently working on?
+>
+> - [x] **ECBA fundamentals** — BABOK's six knowledge areas, studied end to end
+> - [x] **BRD masterclass** — a full 12-section Business Requirements Document, built around a fictional bank OTP login project
+> - [x] **Excel analytics toolkit** — 15 documented sections, function tables, and a 5-phase learning roadmap
+> - [x] **Python fundamentals** — Calculator, Odd/Even Checker, Temperature Converter, Number Guessing Game
+> - [ ] **Master's in Business Analytics (NZ)** — application in progress
+> - [ ] **CCBA → CBAP** — next on the certification path
+>
+> *Not chasing tool badges. Chasing clarity — the tools just come along for the ride.*
+
+<br/>
+
+## 🍥 Favorite Anime
+
+<div align="center">
+
+![One Piece](https://img.shields.io/badge/One%20Piece-0A2647?style=for-the-badge&logo=myanimelist&logoColor=white)
+![Naruto](https://img.shields.io/badge/Naruto-0A2647?style=for-the-badge&logo=myanimelist&logoColor=white)
+![Haikyuu](https://img.shields.io/badge/Haikyuu!!-0A2647?style=for-the-badge&logo=myanimelist&logoColor=white)
+![Attack on Titan](https://img.shields.io/badge/Attack%20on%20Titan-0A2647?style=for-the-badge&logo=myanimelist&logoColor=white)
+
+</div>
+
+<br/>
+
+## 🧠 Topics I Nerd Out On
+
+<div align="center">
+
+![Cosmology](https://img.shields.io/badge/Cosmology-1B263B?style=flat-square)
+![Particle Physics](https://img.shields.io/badge/Particle%20Physics-1B263B?style=flat-square)
+![Business](https://img.shields.io/badge/Business-1B263B?style=flat-square)
+![Cars](https://img.shields.io/badge/Cars-1B263B?style=flat-square)
+![Diplomacy](https://img.shields.io/badge/Diplomacy-1B263B?style=flat-square)
+![Tech](https://img.shields.io/badge/Tech-1B263B?style=flat-square)
+
+</div>
+
+<br/>
+
+## 📌 Pinned
 
 1. **[`brd-masterclass`](https://github.com/atyychos44/brd-masterclass)** — Public
    Full Business Requirements Document built end-to-end around a fictional bank OTP login project, covering all 12 standard BRD sections.
