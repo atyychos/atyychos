@@ -62,12 +62,57 @@
 
 <div align="center">
 
-![One Piece](https://img.shields.io/badge/One%20Piece-0A2647?style=for-the-badge&logo=myanimelist&logoColor=white)
-![Naruto](https://img.shields.io/badge/Naruto-0A2647?style=for-the-badge&logo=myanimelist&logoColor=white)
-![Haikyuu](https://img.shields.io/badge/Haikyuu!!-0A2647?style=for-the-badge&logo=myanimelist&logoColor=white)
-![Attack on Titan](https://img.shields.io/badge/Attack%20on%20Titan-0A2647?style=for-the-badge&logo=myanimelist&logoColor=white)
+[![One Piece](https://img.shields.io/badge/🏴‍☠️_One_Piece-0A2647?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=One+Piece&cat=anime)
+[![Naruto](https://img.shields.io/badge/🍥_Naruto-0A2647?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=Naruto&cat=anime)
+[![Bleach](https://img.shields.io/badge/⚔️_Bleach-0A2647?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=Bleach&cat=anime)
+[![Hunter x Hunter](https://img.shields.io/badge/🎣_Hunter_x_Hunter-0A2647?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=Hunter+x+Hunter&cat=anime)
+
+[![Black Clover](https://img.shields.io/badge/🍀_Black_Clover-1B263B?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=Black+Clover&cat=anime)
+[![Haikyuu](https://img.shields.io/badge/🏐_Haikyuu!!-1B263B?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=Haikyuu&cat=anime)
+[![Attack on Titan](https://img.shields.io/badge/🗡️_Attack_on_Titan-1B263B?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=Attack+on+Titan&cat=anime)
+[![Fullmetal Alchemist](https://img.shields.io/badge/⚗️_Fullmetal_Alchemist-1B263B?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=Fullmetal+Alchemist+Brotherhood&cat=anime)
+
+[![Reincarnated as a Slime](https://img.shields.io/badge/🟦_Reincarnated_as_a_Slime-274472?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=That+Time+I+Got+Reincarnated+as+a+Slime&cat=anime)
+[![Ao Ashi](https://img.shields.io/badge/⚽_Ao_Ashi-274472?style=for-the-badge&logoColor=white)](https://myanimelist.net/anime.php?q=Ao+Ashi&cat=anime)
 
 </div>
+
+<sub align="center">Click any title to look it up on MyAnimeList.</sub>
+
+<br/><br/>
+
+## 📚 Books That Shaped My Thinking
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[📘 A Brief History of Time](https://www.goodreads.com/search?q=A+Brief+History+of+Time)**
+*Stephen Hawking* — cosmology, distilled for the rest of us.
+
+</td>
+<td width="50%" valign="top">
+
+**[🤝 How to Win Friends and Influence People](https://www.goodreads.com/search?q=How+to+Win+Friends+and+Influence+People)**
+*Dale Carnegie* — the original playbook for stakeholder management.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🕊️ Man's Search for Meaning](https://www.goodreads.com/search?q=Man%27s+Search+for+Meaning)**
+*Viktor Frankl* — purpose as a survival tool.
+
+</td>
+<td width="50%" valign="top">
+
+**[🔁 Atomic Habits](https://www.goodreads.com/search?q=Atomic+Habits)**
+*James Clear* — small systems, compounded.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
