@@ -11,7 +11,7 @@
 - 🇳🇵 Based in Nepal · 🇳🇿 Headed for New Zealand
 - 💼 Business Development → Business Analysis, in transition
 - 🌐 [your-portfolio-link.com](https://your-portfolio-link.com)
-- 🔗 LinkedIn: [in/your-linkedin-handle](https://www.linkedin.com/in/your-linkedin-handle)
+- 🔗 LinkedIn: [in/your-linkedin-handle](https://www.linkedin.com/in/abhishek-luitel/)
 - ✉️ [your.email@example.com](mailto:atychos4@gmail.com)
 - 🐦 X: [@your-handle](https://x.com/your-handle)
 
