@@ -1,0 +1,28 @@
+name: Update AniList Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs once a day
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  anilist-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate AniList favorites SVG
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: NOT_NEEDED
+          base: ""
+          committer_message: "Update AniList favorites"
+          plugin_anilist: yes
+          plugin_anilist_user: Atyychos
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites
+          plugin_anilist_limit: 10
