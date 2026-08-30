@@ -15,7 +15,7 @@
 
 ### 👤 My Details & Socials
 
-- 🇳🇵 Based in Nepal · 🇳🇿 Headed for New Zealand
+- 🇳🇵 Based in Nepal 
 - 💼 Business Development → Business Analysis, in transition
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)
