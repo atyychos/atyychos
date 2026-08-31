@@ -19,7 +19,7 @@
 - 💼 Business Development → Business Analysis, in transition
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-handle)
-- ✉️ [Email](mailto:your.email@example.com)
+- ✉️ [Email](atychos4@gmail.com)
 - 🐦 [X](https://x.com/your-handle)
 
 <br/>
