@@ -1,7 +1,7 @@
 <div align="center">
  
 # atyychos44  
-
+ 
 🧩 R̶e̶q̶u̶i̶r̶e̶m̶e̶n̶t̶s̶ ̶u̶n̶d̶e̶f̶i̶n̶e̶d̶.̶ Let's fix that.
 
 </div>
