@@ -16,11 +16,11 @@
 ### 👤 My Details & Socials
 
 - 🇳🇵 Based in Nepal. 
-- 💼 Business Development → Business Analysis, in transition
+- 💼 Business Development → Business Analysis
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-luitel/)
 - ✉️ [Email](atychos4@gmail.com)
-- 🐦 [X](https://x.com/your-handle)
+- 🐦 [X](https://x.com/AbhishekLuite10)
 
 <br/>
 
