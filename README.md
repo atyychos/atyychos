@@ -1,6 +1,6 @@
 <div align="center">   
  
-# Atyyyychos  
+# Atyyyychos   
  
 "A slime with a destination."
 
