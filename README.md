@@ -38,10 +38,9 @@
 ### 📖 Currently Learning
 
 - [x] ECBA fundamentals — BABOK's six knowledge areas
-- [x] BRD masterclass — 12-section BRD, bank OTP login project
+- [x] BRD masterclass — 12-section BRD, projects and case studies
 - [x] Excel analytics toolkit — 15 sections, 5-phase roadmap
 - [x] Python fundamentals — small logic-building projects
-- [ ] Master's in Business Analytics (NZ) — application in progress
 - [ ] CCBA → CBAP — next on the certification path
 
 </td>
