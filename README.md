@@ -1,6 +1,4 @@
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/3e65f55a-e7a6-41cf-9287-64e396f0485e" /><div align="center">   
- 
-# Atyyyychos      
+  # Atyyyychos      
  
 "A slime with a destination."
 
@@ -41,7 +39,7 @@
 - [x] BRD masterclass — 12-section BRD, projects and case studies
 - [x] Excel analytics toolkit — 15 sections, 5-phase roadmap
 - [x] Python fundamentals — small logic-building projects
-- [ ] CCBA → CBAP — next on the certification path
+- [x] Case Study for Business Consulting
 
 </td>
 
