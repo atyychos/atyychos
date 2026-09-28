@@ -1,4 +1,4 @@
-<div align="center">   
+<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/3e65f55a-e7a6-41cf-9287-64e396f0485e" /><div align="center">   
  
 # Atyyyychos      
  
@@ -20,7 +20,7 @@
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-luitel/)
 - ✉️ [Email](atychos4@gmail.com)
-- 🐦 [X](https://x.com/AbhishekLuite10)
+- X [X](https://x.com/AbhishekLuite10)
 
 <br/>
 
