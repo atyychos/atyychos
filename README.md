@@ -18,7 +18,7 @@
 - 🌐 [Portfolio](https://your-portfolio-link.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-luitel/)
 - ✉️ [Email](atychos4@gmail.com)
-- X [X](https://x.com/AbhishekLuite10)
+- X [Twitter-X](https://x.com/AbhishekLuite10)
 
 <br/>
 
