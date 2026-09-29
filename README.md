@@ -59,12 +59,12 @@
 
 ### 🧠 Topics I Nerd Out On
 
-![Cosmology](https://img.shields.io/badge/Cosmology-1B263B?style=flat-square)
-![Particle Physics](https://img.shields.io/badge/Particle%20Physics-1B263B?style=flat-square)
-![Business](https://img.shields.io/badge/Business-1B263B?style=flat-square)
-![Cars](https://img.shields.io/badge/Cars-1B263B?style=flat-square)
-![Diplomacy](https://img.shields.io/badge/Diplomacy-1B263B?style=flat-square)
-![Tech](https://img.shields.io/badge/Tech-1B263B?style=flat-square)
+![Cosmology](https://img.shields.io/badge/🌌_Cosmology-1B263B?style=flat-square&logoColor=white)
+![Particle Physics](https://img.shields.io/badge/⚛️_Particle_Physics-1B263B?style=flat-square&logoColor=white)
+![Business](https://img.shields.io/badge/💼_Business-1B263B?style=flat-square&logoColor=white)
+![Cars](https://img.shields.io/badge/🚗_Cars-1B263B?style=flat-square&logoColor=white)
+![Diplomacy](https://img.shields.io/badge/🕊️_Diplomacy-1B263B?style=flat-square&logoColor=white)
+![Tech](https://img.shields.io/badge/💻_Tech-1B263B?style=flat-square&logoColor=white)
 
 </td>
 
