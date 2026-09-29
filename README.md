@@ -43,7 +43,7 @@
 
 </td>
 
-<td width="50%" valign="top" style="padding:22px;">
+<td width="50%" valign="top" style="padding:22px;"> 
 
 ### 🍥 Favorite Anime
 
